@@ -5,8 +5,19 @@ import os
 import re
 from typing import Dict, Tuple, List
 from statistics import mean
+# import cors
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Set base path as constant
 BASE_PATH = "clean/"
