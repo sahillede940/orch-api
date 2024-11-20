@@ -1,0 +1,67 @@
+DOMESTIC AIR SERVICE LEVEL,WEIGHT RANGE,CURRENT UPS
+Next Day Air Letter,All,0.776
+Next Day Air Package,All,0.765
+Next Day Air Saver Letter,All,0.771
+Next Day Air Saver Package,All,0.782
+2nd Day AM Letter,All,0.662
+2nd Day AM Package,All,0.673
+2nd Day Air Letter,All,0.661
+2nd Day Air Package,All,0.699
+3 Day Select Package,All,0.656
+Next Day Air CWT,All,0.535
+Next Day Air Saver CWT,All,0.529
+2nd Day Air AM CWT,All,0.514
+2nd Day Air CWT,All,0.542
+3 Day Select CWT,All,0.538
+Ground CWT,Discount,0.528
+Ground Freight Pricing,All,0
+Ground Commercial,1-5 lbs,0.594
+Ground Commercial,6-10 lbs,0.594
+Ground Commercial,11-20 lbs,0.615
+Ground Commercial,21-30 lbs,0.64
+Ground Commercial,31-50 lbs,0.664
+Ground Commercial,51-70 lbs,0.664
+Ground Commercial,71-150 lbs,0.664
+Ground Commercial,151 lbs+,0.664
+Ground Residential,1-5 lbs,0.566
+Ground Residential,6-10 lbs,0.566
+Ground Residential,11-20 lbs,0.586
+Ground Residential,21-30 lbs,0.604
+Ground Residential,31-50 lbs,0.616
+Ground Residential,51-70 lbs,0.616
+Ground Residential,71-150 lbs,0.616
+Ground Residential,151 lbs+,0.616
+SurePost,1 - 16 OZ,0.33
+SurePost,1 - 9 LBS,0.465
+SurePost,10+ LBS,0.185
+Export WW Express Letter,All,0.666
+Export WW Express Doc,All,0.723
+Export WW Express Pak,All,0.723
+Export WW Express Package,All,0.732
+Export WW Saver Letter,All,0.658
+Export WW Saver Doc,All,0.725
+Export WW Saver Pak,All,0.725
+Export WW Saver Package,All,0.744
+Export WW Expedited Doc,All,0.723
+Export WW Expedited Package,All,0.738
+Import WW Express Letter,All,0.766
+Import WW Express Doc,All,0.766
+Import WW Express Package,All,0.772
+Import WW Saver Letter,All,0.767
+Import WW Saver Doc,All,0.768
+Import WW Saver Package,All,0.771
+Import WW Expedited Package,All,0.776
+Export Standard to Canada,All,0.259
+Export Standard to Mexico,All,0.259
+Import Standard from Canada,All,0.301
+Import Standard from Mexico,All,0.301
+DAS Comm,Air,0.45
+DAS Ext Comm,Air,0.45
+DAS Resi,Air,0.3
+DAS Ext Resi,Air,0.3
+DAS Comm,Ground,0.5
+DAS Ext Comm,Ground,0.5
+DAS Resi,Ground,0.3
+DAS Ext Resi,Ground,0.3
+Residential Fee,Air,0.4
+Residential Fee,Ground,0.5

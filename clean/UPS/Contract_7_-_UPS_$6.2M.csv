@@ -1,0 +1,61 @@
+DOMESTIC AIR SERVICE LEVEL,WEIGHT RANGE,CURRENT UPS
+Next Day Air Letter,All,0.799
+Next Day Air Package,All,0.69
+Next Day Air Saver Letter,All,0.799
+Next Day Air Saver Package,All,0.69
+2nd Day AM Letter,All,0.704
+2nd Day AM Package,All,0.544
+2nd Day Air Letter,All,0.704
+2nd Day Air Package,All,0.544
+3 Day Select Package,All,0.504
+Next Day Air CWT,All,0.504
+Next Day Air Saver CWT,All,0.504
+2nd Day Air AM CWT,All,0
+2nd Day Air CWT,All,0.504
+3 Day Select CWT,All,0.254
+Ground CWT,Discount,0.304
+Ground Freight Pricing,All,0
+Ground Commercial,1-5 lbs,0.454
+Ground Commercial,6-10 lbs,0.454
+Ground Commercial,11-20 lbs,0.484
+Ground Commercial,21-30 lbs,0.484
+Ground Commercial,31-50 lbs,0.514
+Ground Commercial,51-70 lbs,0.514
+Ground Commercial,71-150 lbs,0.514
+Ground Commercial,151 lbs+,0.514
+Ground Residential,1-5 lbs,0.434
+Ground Residential,6-10 lbs,0.434
+Ground Residential,11-20 lbs,0.454
+Ground Residential,21-30 lbs,0.454
+Ground Residential,31-50 lbs,0.474
+Ground Residential,51-70 lbs,0.474
+Ground Residential,71-150 lbs,0.474
+Ground Residential,151 lbs+,0.474
+SurePost,1 - 16 OZ,0
+SurePost,1 - 9 LBS,0
+SurePost,10+ LBS,0
+Export WW Express Doc,All,0.614
+Export WW Express Pak,All,0.614
+Export WW Express Package,All,0.614
+Export WW Saver Doc,All,0.614
+Export WW Saver Package,All,0.739
+Export WW Expedited Doc,All,0.614
+Import WW Express Letter,All,0.514
+Import WW Express Doc,All,0.514
+Import WW Express Package,All,0.514
+Import WW Saver Letter,All,0.514
+Import WW Saver Doc,All,0.514
+Import WW Saver Package,All,0.514
+Import WW Expedited Package,All,0.514
+Export Standard to Canada,All,0.299
+Import Standard from Canada,All,0.299
+DAS Comm,Air,0
+DAS Ext Comm,Air,0
+DAS Resi,Air,0
+DAS Ext Resi,Air,0
+DAS Comm,Ground,0
+DAS Ext Comm,Ground,0
+DAS Resi,Ground,0
+DAS Ext Resi,Ground,0
+Residential Fee,Air,0.25
+Residential Fee,Ground,0.25

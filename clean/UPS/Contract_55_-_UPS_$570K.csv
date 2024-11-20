@@ -1,0 +1,67 @@
+DOMESTIC AIR SERVICE LEVEL,WEIGHT RANGE,CURRENT UPS
+Next Day Air Letter,All,0.56
+Next Day Air Package,All,0.56
+Next Day Air Saver Letter,All,0.56
+Next Day Air Saver Package,All,0.56
+2nd Day AM Letter,All,0.52
+2nd Day AM Package,All,0.52
+2nd Day Air Letter,All,0.52
+2nd Day Air Package,All,0.52
+3 Day Select Package,All,0.47
+Next Day Air CWT,All,0
+Next Day Air Saver CWT,All,0
+2nd Day Air AM CWT,All,0
+2nd Day Air CWT,All,0
+3 Day Select CWT,All,0
+Ground CWT,Discount,0.1
+Ground Freight Pricing,All,0
+Ground Commercial,1-5 lbs,0.2764
+Ground Commercial,6-10 lbs,0.3064
+Ground Commercial,11-20 lbs,0.3364
+Ground Commercial,21-30 lbs,0.3764
+Ground Commercial,31-50 lbs,0.4164
+Ground Commercial,51-70 lbs,0.4164
+Ground Commercial,71-150 lbs,0.4164
+Ground Commercial,151 lbs+,0.4164
+Ground Residential,1-5 lbs,0.2512
+Ground Residential,6-10 lbs,0.2762
+Ground Residential,11-20 lbs,0.3012
+Ground Residential,21-30 lbs,0.3412
+Ground Residential,31-50 lbs,0.3812
+Ground Residential,51-70 lbs,0.3812
+Ground Residential,71-150 lbs,0.3812
+Ground Residential,151 lbs+,0.3812
+SurePost,1 - 16 OZ,0.03
+SurePost,1 - 9 LBS,0.03
+SurePost,10+ LBS,0.03
+Export WW Express Letter,All,0.61
+Export WW Express Doc,All,0.61
+Export WW Express Pak,All,0.61
+Export WW Express Package,All,0.61
+Export WW Saver Letter,All,0.61
+Export WW Saver Doc,All,0.61
+Export WW Saver Pak,All,0.61
+Export WW Saver Package,All,0.61
+Export WW Expedited Doc,All,0.61
+Export WW Expedited Package,All,0.61
+Import WW Express Letter,All,0.42
+Import WW Express Doc,All,0.42
+Import WW Express Package,All,0.42
+Import WW Saver Letter,All,0.42
+Import WW Saver Doc,All,0.42
+Import WW Saver Package,All,0.42
+Import WW Expedited Package,All,0.42
+Export Standard to Canada,All,0.23
+Export Standard to Mexico,All,0.61
+Import Standard from Canada,All,0.23
+Import Standard from Mexico,All,0.42
+DAS Comm,Air,0
+DAS Ext Comm,Air,0
+DAS Resi,Air,0
+DAS Ext Resi,Air,0
+DAS Comm,Ground,0
+DAS Ext Comm,Ground,0
+DAS Resi,Ground,0
+DAS Ext Resi,Ground,0
+Residential Fee,Air,0
+Residential Fee,Ground,0

@@ -1,0 +1,53 @@
+DOMESTIC AIR SERVICE LEVEL,WEIGHT RANGE,CURRENT FEDEX
+Priority Overnight Letter,All,0.58
+Priority Overnight Package,All,0.58
+Standard Overnight Letter,All,0.58
+Standard Overnight Package,All,0.58
+2 Day AM Letter,All,0.43
+2 Day AM Package,All,0.43
+2 Day Air Letter,All,0.43
+2 Day Air Package,All,0.43
+Express Saver Package,All,0.43
+Ground MWT,Discount,0.06
+Ground Single Piece,1-5 lbs,0.29
+Ground Single Piece,6-10 lbs,0.29
+Ground Single Piece,11-20 lbs,0.39
+Ground Single Piece,21-30 lbs,0.39
+Ground Single Piece,31-50 lbs,0.44
+Ground Single Piece,51-70 lbs,0.44
+Ground Single Piece,71-150 lbs,0.46
+Ground Single Piece,151 lbs+,0.46
+Home Delivery,1-5 lbs,0.13
+Home Delivery,6-10 lbs,0.13
+Home Delivery,11-20 lbs,0.14
+Home Delivery,21-30 lbs,0.14
+Home Delivery,31-50 lbs,0.16
+Home Delivery,51-70 lbs,0.16
+Home Delivery,71-150 lbs,0.16
+Home Delivery,151 lbs+,0.16
+SmartPost,1 - 16 OZ,0.39
+SmartPost,1 - 9 LBS,0.39
+SmartPost,10+ LBS,0.39
+Export Intl Priority Letter,All,0.78
+Export Intl Priority Doc,All,0.78
+Export Intl Priority Pak,All,0.78
+Export Intl Priority Package,All,0.78
+Export Intl Economy Doc,All,0.78
+Export Intl Economy Package,All,0.78
+Import Intl Priority Letter,All,0.76
+Import Intl Priority Doc,All,0.76
+Import Intl Priority Package,All,0.76
+Import Intl Economy Doc,All,0.76
+Import Intl Economy Package,All,0.76
+Export Intl Ground,All,0
+Import Intl Ground,All,0
+DAS Comm,Air,0
+DAS Ext Comm,Air,0
+DAS Resi,Air,0
+DAS Ext Resi,Air,0
+DAS Comm,Ground,0
+DAS Ext Comm,Ground,0
+DAS Resi,HD,0
+DAS Ext Resi,HD,0
+Residential Fee,Air,0
+Residential Fee,HD,0

@@ -1,0 +1,50 @@
+DOMESTIC AIR SERVICE LEVEL,WEIGHT RANGE,CURRENT UPS
+Next Day Air Letter,All,0.65
+Next Day Air Package,All,0.65
+Next Day Air Saver Letter,All,0.65
+Next Day Air Saver Package,All,0.65
+2nd Day AM Letter,All,0.55
+2nd Day AM Package,All,0.55
+2nd Day Air Letter,All,0.55
+2nd Day Air Package,All,0.55
+3 Day Select Package,All,0.5
+Next Day Air CWT,All,0.27
+Next Day Air Saver CWT,All,0.27
+2nd Day Air AM CWT,All,0
+2nd Day Air CWT,All,0.27
+3 Day Select CWT,All,0
+Ground CWT,Discount,0.17
+Ground Freight Pricing,All,0
+Ground Commercial,1-5 lbs,0.29
+Ground Commercial,6-10 lbs,0.32
+Ground Commercial,11-20 lbs,0.35
+Ground Commercial,21-30 lbs,0.38
+Ground Commercial,31-50 lbs,0.41
+Ground Commercial,51-70 lbs,0.41
+Ground Commercial,71-150 lbs,0.41
+Ground Commercial,151 lbs+,0.41
+Ground Residential,1-5 lbs,0.25
+Ground Residential,6-10 lbs,0.28
+Ground Residential,11-20 lbs,0.31
+Ground Residential,21-30 lbs,0.34
+Ground Residential,31-50 lbs,0.37
+Ground Residential,51-70 lbs,0.37
+Ground Residential,71-150 lbs,0.37
+Ground Residential,151 lbs+,0.37
+SurePost,1 - 16 OZ,0
+SurePost,1 - 9 LBS,0
+SurePost,10+ LBS,0
+Export Standard to Canada,All,0.2
+Export Standard to Mexico,All,0.2
+Import Standard from Canada,All,0.15
+Import Standard from Mexico,All,0.15
+DAS Comm,Air,0.25
+DAS Ext Comm,Air,0.25
+DAS Resi,Air,0.25
+DAS Ext Resi,Air,0.25
+DAS Comm,Ground,0.25
+DAS Ext Comm,Ground,0.25
+DAS Resi,Ground,0.25
+DAS Ext Resi,Ground,0.25
+Residential Fee,Air,0.25
+Residential Fee,Ground,0.25

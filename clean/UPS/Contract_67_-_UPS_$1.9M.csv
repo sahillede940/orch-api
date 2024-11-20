@@ -1,0 +1,67 @@
+DOMESTIC AIR SERVICE LEVEL,WEIGHT RANGE,CURRENT UPS
+Next Day Air Letter,All,0.72
+Next Day Air Package,All,0.72
+Next Day Air Saver Letter,All,0.72
+Next Day Air Saver Package,All,0.72
+2nd Day AM Letter,All,0.68
+2nd Day AM Package,All,0.68
+2nd Day Air Letter,All,0.68
+2nd Day Air Package,All,0.68
+3 Day Select Package,All,0.62
+Next Day Air CWT,All,0.37
+Next Day Air Saver CWT,All,0.37
+2nd Day Air AM CWT,All,0.37
+2nd Day Air CWT,All,0.37
+3 Day Select CWT,All,0.37
+Ground CWT,Discount,0.37
+Ground Freight Pricing,All,0
+Ground Commercial,1-5 lbs,0.51
+Ground Commercial,6-10 lbs,0.51
+Ground Commercial,11-20 lbs,0.56
+Ground Commercial,21-30 lbs,0.56
+Ground Commercial,31-50 lbs,0.56
+Ground Commercial,51-70 lbs,0.56
+Ground Commercial,71-150 lbs,0.56
+Ground Commercial,151 lbs+,0.56
+Ground Residential,1-5 lbs,0.48
+Ground Residential,6-10 lbs,0.48
+Ground Residential,11-20 lbs,0.53
+Ground Residential,21-30 lbs,0.53
+Ground Residential,31-50 lbs,0.53
+Ground Residential,51-70 lbs,0.53
+Ground Residential,71-150 lbs,0.53
+Ground Residential,151 lbs+,0.53
+SurePost,1 - 16 OZ,0.472
+SurePost,1 - 9 LBS,0.472
+SurePost,10+ LBS,0.2
+Export WW Express Letter,All,0.7
+Export WW Express Doc,All,0.7
+Export WW Express Pak,All,0.7
+Export WW Express Package,All,0.7
+Export WW Saver Letter,All,0.7
+Export WW Saver Doc,All,0.7
+Export WW Saver Pak,All,0.7
+Export WW Saver Package,All,0.7
+Export WW Expedited Doc,All,0.7
+Export WW Expedited Package,All,0.7
+Import WW Express Letter,All,0.6
+Import WW Express Doc,All,0.6
+Import WW Express Package,All,0.6
+Import WW Saver Letter,All,0.6
+Import WW Saver Doc,All,0.6
+Import WW Saver Package,All,0.6
+Import WW Expedited Package,All,0.6
+Export Standard to Canada,All,0.32
+Export Standard to Mexico,All,0.32
+Import Standard from Canada,All,0.32
+Import Standard from Mexico,All,0.32
+DAS Comm,Air,0.25
+DAS Ext Comm,Air,0
+DAS Resi,Air,0.25
+DAS Ext Resi,Air,0
+DAS Comm,Ground,0.3
+DAS Ext Comm,Ground,0.3
+DAS Resi,Ground,0.3
+DAS Ext Resi,Ground,0.3
+Residential Fee,Air,0.25
+Residential Fee,Ground,0.3

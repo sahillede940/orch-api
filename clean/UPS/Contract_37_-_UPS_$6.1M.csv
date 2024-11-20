@@ -1,0 +1,67 @@
+DOMESTIC AIR SERVICE LEVEL,WEIGHT RANGE,CURRENT UPS
+Next Day Air Letter,All,0.763
+Next Day Air Package,All,0.763
+Next Day Air Saver Letter,All,0.762
+Next Day Air Saver Package,All,0.762
+2nd Day AM Letter,All,0.745
+2nd Day AM Package,All,0.745
+2nd Day Air Letter,All,0.745
+2nd Day Air Package,All,0.745
+3 Day Select Package,All,0.678
+Next Day Air CWT,All,0.468
+Next Day Air Saver CWT,All,0.468
+2nd Day Air AM CWT,All,0.468
+2nd Day Air CWT,All,0.468
+3 Day Select CWT,All,0.468
+Ground CWT,Discount,0
+Ground Freight Pricing,All,0.8
+Ground Commercial,1-5 lbs,0.558
+Ground Commercial,6-10 lbs,0.578
+Ground Commercial,11-20 lbs,0.598
+Ground Commercial,21-30 lbs,0.628
+Ground Commercial,31-50 lbs,0.668
+Ground Commercial,51-70 lbs,0.668
+Ground Commercial,71-150 lbs,0.668
+Ground Commercial,151 lbs+,0.668
+Ground Residential,1-5 lbs,0.538
+Ground Residential,6-10 lbs,0.558
+Ground Residential,11-20 lbs,0.578
+Ground Residential,21-30 lbs,0.608
+Ground Residential,31-50 lbs,0.638
+Ground Residential,51-70 lbs,0.638
+Ground Residential,71-150 lbs,0.638
+Ground Residential,151 lbs+,0.638
+SurePost,1 - 16 OZ,0.453
+SurePost,1 - 9 LBS,0.453
+SurePost,10+ LBS,0.033
+Export WW Express Letter,All,0.723
+Export WW Express Doc,All,0.723
+Export WW Express Pak,All,0.723
+Export WW Express Package,All,0.804
+Export WW Saver Letter,All,0.723
+Export WW Saver Doc,All,0.723
+Export WW Saver Pak,All,0.723
+Export WW Saver Package,All,0.805
+Export WW Expedited Doc,All,0.723
+Export WW Expedited Package,All,0.811
+Import WW Express Letter,All,0.657
+Import WW Express Doc,All,0.657
+Import WW Express Package,All,0.717
+Import WW Saver Letter,All,0.657
+Import WW Saver Doc,All,0.657
+Import WW Saver Package,All,0.715
+Import WW Expedited Package,All,0.806
+Export Standard to Canada,All,0.36
+Export Standard to Mexico,All,0.36
+Import Standard from Canada,All,0.36
+Import Standard from Mexico,All,0.36
+DAS Comm,Air,0.6
+DAS Ext Comm,Air,0.6
+DAS Resi,Air,0.6
+DAS Ext Resi,Air,0.6
+DAS Comm,Ground,0.6
+DAS Ext Comm,Ground,0.6
+DAS Resi,Ground,0.6
+DAS Ext Resi,Ground,0.6
+Residential Fee,Air,0.6
+Residential Fee,Ground,0.6
