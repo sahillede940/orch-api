@@ -154,7 +154,7 @@ def format_results(stats: Dict) -> Tuple[str, FormatResults]:
             "min_discount": min_discount,
             "max_discount": max_discount,
             "contract_count": data['contract_count'],
-            "discount_values": f"{', '.join(f'{d:.2f}' for d in discount_values)}"
+            "discount_values": [float(f'{d:.2f}') for d in discount_values]
         })
 
     return {
